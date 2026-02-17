@@ -44,7 +44,7 @@ Test Design → Execution → Defect Logging → Reporting → Metrics
 
 ## Project Structure
 
-```
+```text
 sql-testing-portfolio
 │
 ├── bug-reports
@@ -61,9 +61,6 @@ sql-testing-portfolio
 ├── test-strategy.md
 └── test-summary-report.md
 ```
-
-
-
 
 ---
 
