@@ -44,18 +44,22 @@ Test Design → Execution → Defect Logging → Reporting → Metrics
 
 ## Project Structure
 
-bug-reports/
+sql-testing-portfolio
 │
-├── test-cases/
-│   ├── login-tests.md
-│   ├── payment-test.md
+├── bug-reports
+│   ├── test-cases
+│   │   ├── login-tests.md
+│   │   ├── payment-test.md
+│   │   ├── api-negative-tests.md
+│   │
+│   ├── advanced-sql-tests.md
+│   └── sample-bug-report.md
 │
-├── advanced-sql-tests.md
 ├── sql-test-scenarios.md
 ├── test-data-validation.md
 ├── test-strategy.md
-├── test-summary-report.md
-└── sample-bug-report.md
+└── test-summary-report.md
+
 
 ---
 
