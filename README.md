@@ -62,6 +62,23 @@ bug-reports/
 | BUG-001 | High | Login bypass with SQL injection |
 | BUG-002 | Medium | Payment accepted with expired card |
 
+## Portfolio Test Modules
+
+This repository contains real-world style QA documentation examples:
+
+• Login Testing — functional validation scenarios  
+• Payment Testing — positive and negative test cases  
+• SQL Validation — database integrity checks  
+• Edge Case Testing — boundary and negative scenarios  
+• API Testing — request/response validation  
+• Test Strategy — full test planning example  
+• Test Metrics — execution analytics sample  
+• Bug Report — professional defect report example  
+
+Each module reflectsreal QA workflows including planning, execution, validation, and reporting
+
+All examples simulate real QA documentation used in production environments.
+
 ---
 
 ## About Me
