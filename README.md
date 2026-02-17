@@ -11,6 +11,21 @@
 
 QA portfolio demonstrating practical testing skills including SQL validation, API testing, data integrity verification, and defect reporting.
 
+----
+## How to Review This Portfolio
+
+If you are reviewing this portfolio as a recruiter or hiring manager, here is the recommended order:
+
+1. Review test cases → [Test Cases](bug-reports/test-cases/)
+2. Check SQL validation scenarios → [SQL Scenarios](sql-test-scenarios.md)
+3. Review test strategy → [Test Strategy](test-strategy.md)
+4. Review execution results → [Test Summary](test-summary-report.md)
+5. Review sample bug report → [Bug Report Example](sample-bug-report.md)
+
+This structure reflects real QA workflow:
+Test Design → Execution → Defect Logging → Reporting → Metrics
+
+
 ---
 
 ## Skills Demonstrated
