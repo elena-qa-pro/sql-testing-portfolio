@@ -52,6 +52,28 @@ E --> F[Retesting]
 F --> G[Reporting]
 G --> H[Metrics & Analysis]
 ```
+## Test Coverage Metrics
+
+| Module | Test Cases | Executed | Passed | Failed | Coverage |
+|------|-------------|----------|--------|--------|-----------|
+| Login | 12 | 12 | 11 | 1 | 100% |
+| Payment | 18 | 18 | 17 | 1 | 100% |
+| API | 15 | 15 | 14 | 1 | 100% |
+| SQL Validation | 20 | 20 | 20 | 0 | 100% |
+| Edge Cases | 14 | 14 | 13 | 1 | 100% |
+
+**Overall Coverage:** 100%  
+**Pass Rate:** 95%  
+**Total Defects Found:** 4
+
+---
+
+### Coverage Analysis
+
+- High test coverage achieved across all modules
+- Most failures occurred in negative and edge scenarios
+- SQL validation showed strongest stability
+- API testing revealed validation gaps
 
 ---
 
