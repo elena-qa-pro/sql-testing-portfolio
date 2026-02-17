@@ -40,6 +40,19 @@ Test Design → Execution → Defect Logging → Reporting → Metrics
 - Test Strategy Creation
 - Test Execution Reporting
 
+- ## QA Testing Workflow
+
+```mermaid
+flowchart LR
+A[Requirements Review] --> B[Test Planning]
+B --> C[Test Case Design]
+C --> D[Test Execution]
+D --> E[Defect Logging]
+E --> F[Retesting]
+F --> G[Reporting]
+G --> H[Metrics & Analysis]
+```
+
 ---
 
 ## Project Structure
