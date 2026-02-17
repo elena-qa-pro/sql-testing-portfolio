@@ -1,3 +1,12 @@
+![QA](https://img.shields.io/badge/Role-QA%20Engineer-blue)
+![SQL](https://img.shields.io/badge/Skill-SQL-orange)
+![API](https://img.shields.io/badge/Skill-API%20Testing-green)
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-yellow)
+![Postman](https://img.shields.io/badge/Tool-Postman-red)
+![Test Design](https://img.shields.io/badge/Skill-Test%20Design-purple)
+![Bug Reports](https://img.shields.io/badge/QA-Bug%20Reporting-critical)
+![Status](https://img.shields.io/badge/Portfolio-Active-success)
+
 # SQL Testing Portfolio — Elena Kharchenko
 
 QA portfolio demonstrating practical testing skills including SQL validation, API testing, data integrity verification, and defect reporting.
