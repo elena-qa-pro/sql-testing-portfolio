@@ -76,6 +76,17 @@ sql-testing-portfolio
 - API testing
 - Validation testing
 
+## Test Environment
+
+| Component | Value |
+|--------|------|
+| OS | Windows 11 |
+| Database | MySQL |
+| API Tool | Postman |
+| Version Control | Git + GitHub |
+| Testing Type | Manual + SQL + API |
+
+
 ---
 
 ## Tools Used
